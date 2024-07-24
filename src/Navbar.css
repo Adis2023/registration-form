@@ -1,0 +1,20 @@
+/* Custom styling for the AppBar */
+.appBar-custom {
+  background-color: #1976d2; /* Custom color for the AppBar */
+}
+
+/* Custom styling for the Search component */
+.search-custom {
+  border: 1px solid #fff; /* Add a border to the search bar */
+}
+
+/* Custom styling for the Search icon wrapper */
+.searchIcon-custom {
+  color: #fff; /* Change the color of the search icon */
+}
+
+/* Custom styling for the input base */
+.inputBase-custom {
+  font-weight: bold; /* Make the text bold */
+  font-size: 1rem; /* Increase font size */
+}

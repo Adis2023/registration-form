@@ -1,0 +1,84 @@
+.App {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+.MuiFormControl-root {
+  width: 100%;
+}
+
+#btn {
+  text-align: center;
+}
+
+#btn .MuiButton-root {
+  background-color: #4caf50;
+  color: white;
+}/* General body styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* App component container */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Header styling */
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* TextField styles */
+.MuiTextField-root {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+/* Button styles */
+.MuiButton-root {
+  width: 100%;
+  margin-top: 20px;
+  background-color: #1976d2;
+  color: white;
+  font-weight: bold;
+}
+
+.MuiButton-root:hover {
+  background-color: #1565c0;
+}
+
+
+#btn .MuiButton-root:hover {
+  background-color: #45a049;
+}
